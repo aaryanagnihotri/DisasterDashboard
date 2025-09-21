@@ -2,9 +2,7 @@ streamlit
 pandas
 numpy
 matplotlib
-seaborn
-scikit-learn
-tensorflow
-torch
 folium
-
+geopandas
+tensorflow
+scikit-learn
